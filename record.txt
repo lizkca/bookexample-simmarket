@@ -1,0 +1,27 @@
+1.first,think a name for this project.i think simmarket this name will not trouble me.
+2.what should i do? something realy effect.
+3.code it,and get something can play round.
+  write the doc about it.
+  design how the game should be.
+4.if i alreay got this game.how should i play it? what should it look like?think about it.use your keyborad ,play it now.
+
+a for all
+s for sell
+d for 
+f for 
+
+r for 
+u for 
+q for 
+w for 
+o for 
+p for 
+
+j for 
+k for 
+l for 
+; for 
+
+why i need type this char again and again?
+how about design it runs the way like vim?
+
