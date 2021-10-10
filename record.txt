@@ -28,3 +28,5 @@ how about design it runs the way like vim?
 5. click seems did not build for game.
 but there are alway have a way to fixs it.
 
+6.you can write the most interesting part first.
+
