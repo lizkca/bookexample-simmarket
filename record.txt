@@ -25,3 +25,6 @@ l for
 why i need type this char again and again?
 how about design it runs the way like vim?
 
+5. click seems did not build for game.
+but there are alway have a way to fixs it.
+
